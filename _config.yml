@@ -24,11 +24,11 @@ repository               : "abm120/abm120.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Anil"
+  pronouns         : # example: "he/him"  
+  bio              : "LLM Reasoning and Agentic AI, Human-AI Interaction"
+  location         : "Tempe, AZ"
+  employer         : "SCAI @ Arizona State University"
   uri              : # URL
   email            : "none@example.org" 
 
