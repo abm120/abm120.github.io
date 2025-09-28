@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Anil"
   pronouns         : # example: "he/him"  
-  bio              : "LLM Reasoning and Planning, Agentic AI, Human-AI Interaction"
+  bio              : "AI PhD @ SCAI, ASU | LLM Reasoning and Planning, Agentic AI, Human-AI Interaction"
   location         : "Tempe, AZ"
-  employer         : "SCAI @ Arizona State University"
+  employer         : #"SCAI @ Arizona State University"
   uri              : # URL
   email            : "none@example.org" 
 
