@@ -14,6 +14,24 @@ My research interests also span Human-AI interaction, exploring how humans can a
 
 Before PhD, in what now feels like a previous life, I worked in Sensor Fusion, Analytics, and Networks across Nokia Networks, Forus Health, and WIPRO Ltd. I also worked as a Software Engineer at Accenture and as a Consulting Resource Person at the Board of IT Education Standards, Bengaluru. I explored research in Information Theory and Network Coding at Texas A&M University, College Station, as a Graduate Merit Scholar in the Computer Engineering Systems Group. I obtained my Bachelor's degree in Telecommunication Engineering at PES University, Bengaluru.
 
+---
+
+<div class="news-section">
+<h1>News & Updates</h1>
+<div class="news-container">
+{% for item in site.data.news %}
+<div class="news-item">
+<span class="news-date">{{ item.date }}</span>
+<span class="news-content">{{ item.content | markdownify | remove: '<p>' | remove: '</p>' | strip }}</span>
+</div>
+{% endfor %}
+</div>
+</div>
+
+---
+
+
+### Hobbies & Interests
 In my free time, I enjoy trekking and biking. I have trekked in the Himalayas twice. I also listen to a wide variety of music and soundtracks and dabble in amateur video scoring. I used to be a district-level cricket player in my teens, and follow sporting events around the world.
 
 ![Design ECC 1 bottom](https://github.com/user-attachments/assets/8c0d6646-48b8-4df9-96c5-13ee16aa950a)
