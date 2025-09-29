@@ -14,7 +14,7 @@ My research interests also span Human-AI interaction, exploring how humans can a
 
 Before PhD, in what now feels like a previous life, I worked in Sensor Fusion, Analytics, and Networks across Nokia Networks, Forus Health, and WIPRO Ltd. I also worked as a Software Engineer at Accenture and as a Consulting Resource Person at the Board of IT Education Standards, Bengaluru. I explored research in Information Theory and Network Coding at Texas A&M University, College Station, as a Graduate Merit Scholar in the Computer Engineering Systems Group. I obtained my Bachelor's degree in Telecommunication Engineering at PES University, Bengaluru.
 
-In my free time, I enjoy trekking and biking. I have trekked in the Himalayas twice. I also listen to a wide variety of music and soundtracks and dabble in amateur video scoring. I used to be a district-level cricket player in my teens, and follow sporting events around the world. <img width="899" height="646" alt="image" src="https://github.com/user-attachments/assets/fefa6f9e-2787-4977-8ee8-3d8630b4ef19" />
+In my free time, I enjoy trekking and biking. I have trekked in the Himalayas twice. I also listen to a wide variety of music and soundtracks and dabble in amateur video scoring. I used to be a district-level cricket player in my teens, and follow sporting events around the world.
 
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
