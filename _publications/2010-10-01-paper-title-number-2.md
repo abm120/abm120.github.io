@@ -4,7 +4,7 @@ collection: publications
 category: #manuscripts
 permalink: #/publication/2010-10-01-paper-title-number-2
 excerpt: 'Perspective Paper on highlighting the Insufficiency of Computational Assessments of Trust and the need for Human-Centered Evaluations of Trustworthiness in Generative AI Systems.'
-date: 11-07-2025
+date: 2025-11-07
 venue: 'AAAI Symposium on AI Trustworthiness and Risk Assessment in Challenged Contexts 2025'
 slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
 paperurl: #'http://academicpages.github.io/files/paper2.pdf'
