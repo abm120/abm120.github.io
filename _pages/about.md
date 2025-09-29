@@ -31,7 +31,7 @@ Before PhD, in what now feels like a previous life, I worked in Sensor Fusion, A
 ---
 
 
-### Hobbies & Interests
+# Hobbies & Interests
 In my free time, I enjoy trekking and biking. I have trekked in the Himalayas twice. I also listen to a wide variety of music and soundtracks and dabble in amateur video scoring. I used to be a district-level cricket player in my teens, and follow sporting events around the world.
 
 ![Design ECC 1 bottom](https://github.com/user-attachments/assets/8c0d6646-48b8-4df9-96c5-13ee16aa950a)
