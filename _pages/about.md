@@ -7,7 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Hi! I am a PhD student researcher at the [School of Computing & Augmented Intelligence, Arizona State University](https://scai.engineering.asu.edu/), where I am advised by [Lindsay Sanneman](https://www.lindsaysanneman.com) and associated with the HEART AI Lab.
+
+My research is grounded in AI Reasoning, Planning, and Sequential Decision-Making frameworks. I investigate the performance of generative AI models at various reasoning tasks for sequential decision-making, explore how benchmarks assess relevant constructs, and design agentic frameworks that are reliable and trustworthy.
+My research interests also span Human-AI interaction, exploring how humans can augment AI with guidance via {domain & commonsense} knowledge, preferences, intuition, etc. And how AI can assist humans by offering data, compute, {narrow & broad} intelligence capabilities. I also have a broader interest in AI governance and policy. 
+
+Before PhD, in what now feels like a previous life, I worked in Sensor Fusion, Analytics, and Networks across Nokia Networks, Forus Health, and WIPRO Ltd. I also worked as a Software Engineer at Accenture and as a Consulting Resource Person at the Board of IT Education Standards, Bengaluru. I explored research in Information Theory and Network Coding at Texas A&M University, College Station, as a Graduate Merit Scholar in the Computer Engineering Systems Group. I obtained my Bachelor's degree in Telecommunication Engineering at PES University, Bengaluru.
+
+In my free time, I enjoy trekking and biking. I have trekked in the Himalayas twice. I also listen to a wide variety of music and soundtracks and dabble in amateur video scoring. I used to be a district-level cricket player in my teens, and follow sporting events around the world. <img width="899" height="646" alt="image" src="https://github.com/user-attachments/assets/fefa6f9e-2787-4977-8ee8-3d8630b4ef19" />
+
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
