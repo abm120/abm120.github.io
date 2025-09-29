@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: #/publication/2009-10-01-paper-title-number-1
 excerpt: 'New informative Metrics for Evaluation of LLM Responses in Planning and Reasoning tasks.'
-date: 2025
+date: 2025-12-06
 venue: 'NeurIPS 2025 Workshop on Evaluating the Evolving LLM Lifecycle: Benchmarks, Emergent Abilities, and Scaling'
 slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
 paperurl: #'http://academicpages.github.io/files/paper1.pdf'
