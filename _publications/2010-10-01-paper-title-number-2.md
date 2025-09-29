@@ -1,7 +1,7 @@
 ---
 title: "LLMs Need to Go Beyond Computational Confidence Metrics to Establish Trust"
 collection: publications
-category: #manuscripts
+category: papers
 permalink: #/publication/2010-10-01-paper-title-number-2
 excerpt: 'Perspective Paper on highlighting the Insufficiency of Computational Assessments of Trust and the need for Human-Centered Evaluations of Trustworthiness in Generative AI Systems.'
 date: 2025-11-07
