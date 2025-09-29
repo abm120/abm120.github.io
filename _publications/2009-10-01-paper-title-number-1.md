@@ -1,7 +1,7 @@
 ---
 title: "Metrics for Holistic Evaluation of LLM Reasoning about Action, Change, and Planning"
 collection: publications
-category: manuscripts
+category: papers
 permalink: #/publication/2009-10-01-paper-title-number-1
 excerpt: 'New informative Metrics for Evaluation of LLM Responses in Planning and Reasoning tasks.'
 date: 2025-12-06
