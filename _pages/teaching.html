@@ -13,9 +13,9 @@ author_profile: true
   {% for post in teaching_posts %}
     <div style="margin-bottom: 1.5em;">
       <h3>{{ post.title }}</h3>
-      <p>{{ post.excerpt | markdownify | strip_html | truncatewords: 50 }}</p>
-      {% if post.venue %}<p><strong>Venue:</strong> {{ post.venue }}</p>{% endif %}
-      {% if post.date %}<p><strong>Date:</strong> {{ post.date | date: "%B %Y" }}</p>{% endif %}
+      <p>{{ post.excerpt | markdownify | truncatewords: 50 }}</p>
+      {% if post.venue %}<p> {{ post.venue }}</p>{% endif %}
+      {% if post.date %}<p> {{ post.date | date: "%Y" }}</p>{% endif %}
     </div>
   {% endfor %}
 {% else %}
@@ -26,12 +26,7 @@ author_profile: true
 {% assign service_posts = site.teaching | where: "category", "service" | reverse %}
 {% if service_posts.size > 0 %}
   {% for post in service_posts %}
-    <div style="margin-bottom: 1.5em;">
-      <h3>{{ post.title }}</h3>
-      <p>{{ post.excerpt | markdownify | strip_html | truncatewords: 50 }}</p>
-      {% if post.venue %}<p><strong>Venue:</strong> {{ post.venue }}</p>{% endif %}
-      {% if post.date %}<p><strong>Date:</strong> {{ post.date | date: "%B %Y" }}</p>{% endif %}
-    </div>
+    <p>{{ post.title }}</p>
   {% endfor %}
 {% else %}
   <p>No service activities listed yet.</p>
