@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-👋 Hello! I am a PhD student researcher at the [School of Computing & Augmented Intelligence, Arizona State University](https://scai.engineering.asu.edu/), where I am fortunate to be advised by [Lindsay Sanneman](https://www.lindsaysanneman.com) and associated with the HEART AI Lab.
+Hello! I am a PhD student researcher at the [School of Computing & Augmented Intelligence, Arizona State University](https://scai.engineering.asu.edu/), where I am fortunate to be advised by [Lindsay Sanneman](https://www.lindsaysanneman.com) and associated with the HEART AI Lab.
 
 🔬 My research is grounded in AI Reasoning, Planning, and Sequential Decision-Making frameworks. I investigate the performance of generative AI models at various reasoning tasks for sequential decision-making, explore how benchmarks assess relevant constructs, and design agentic frameworks that are reliable and trustworthy.
 
