@@ -39,3 +39,7 @@ In my free time, I enjoy trekking and biking. I have trekked in the Himalayas tw
 <div style="text-align: right;">
     Here's a fun function used in Elliptical Curve Cryptography!
 </div>
+
+
+
+This website is last updated: Sep 2025
