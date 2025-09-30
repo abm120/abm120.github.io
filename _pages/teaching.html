@@ -11,7 +11,12 @@ author_profile: true
 {% assign teaching_posts = site.teaching | where: "category", "teaching" | reverse %}
 {% if teaching_posts.size > 0 %}
   {% for post in teaching_posts %}
-    {% include archive-single.html %}
+    <div style="margin-bottom: 1.5em;">
+      <h3>{{ post.title }}</h3>
+      <p>{{ post.excerpt | markdownify | strip_html | truncatewords: 50 }}</p>
+      {% if post.venue %}<p><strong>Venue:</strong> {{ post.venue }}</p>{% endif %}
+      {% if post.date %}<p><strong>Date:</strong> {{ post.date | date: "%B %Y" }}</p>{% endif %}
+    </div>
   {% endfor %}
 {% else %}
   <p>No teaching activities listed yet.</p>
@@ -21,7 +26,12 @@ author_profile: true
 {% assign service_posts = site.teaching | where: "category", "service" | reverse %}
 {% if service_posts.size > 0 %}
   {% for post in service_posts %}
-    {% include archive-single.html %}
+    <div style="margin-bottom: 1.5em;">
+      <h3>{{ post.title }}</h3>
+      <p>{{ post.excerpt | markdownify | strip_html | truncatewords: 50 }}</p>
+      {% if post.venue %}<p><strong>Venue:</strong> {{ post.venue }}</p>{% endif %}
+      {% if post.date %}<p><strong>Date:</strong> {{ post.date | date: "%B %Y" }}</p>{% endif %}
+    </div>
   {% endfor %}
 {% else %}
   <p>No service activities listed yet.</p>
