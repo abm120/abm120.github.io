@@ -13,8 +13,6 @@ My research is grounded in AI Reasoning, Planning, and Sequential Decision-Makin
 
 My research interests also span Human-AI interaction, exploring how humans can augment AI with guidance via {domain & commonsense} knowledge, preferences, intuition, etc. And how AI can assist humans by offering data, compute, {narrow & broad} intelligence capabilities. I also have a broader interest in AI governance and policy. 
 
-Before PhD, in what now feels like a previous life, I worked in Sensor Fusion, Analytics, and Networks across Nokia Networks, Forus Health, and WIPRO Ltd. I also worked as a Software Engineer at Accenture and as a Consulting Resource Person at the Board of IT Education Standards, Bengaluru. I explored research in Information Theory and Network Coding at Texas A&M University, College Station, as a Graduate Merit Scholar in the Computer Engineering Systems Group. I obtained my Bachelor's degree, majoring in Electronics & Telecommunication Engineering at PES University, Bengaluru. I consider myself fortunate to have had the exposure and opportunity to work in many different technical fields, and grateful to have met great people!
-
 ---
 
 <div class="news-section">
@@ -30,6 +28,8 @@ Before PhD, in what now feels like a previous life, I worked in Sensor Fusion, A
 </div>
 
 ---
+
+Before PhD, in what now feels like a previous life, I worked in Sensor Fusion, Analytics, and Networks across Nokia Networks, Forus Health, and WIPRO Ltd. I also worked as a Software Engineer at Accenture and as a Consulting Resource Person at the Board of IT Education Standards, Bengaluru. I explored research in Information Theory and Network Coding at Texas A&M University, College Station, as a Graduate Merit Scholar in the Computer Engineering Systems Group. I obtained my Bachelor's degree, majoring in Electronics & Telecommunication Engineering at PES University, Bengaluru. I consider myself fortunate to have had the exposure and opportunity to work in many different technical fields, and grateful to have met great people!
 
 
 # Hobbies & Interests
