@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Anil's Homepage"
+title                    : "Anil B Murthy"
 title_separator          : "-"
 name                     : &name "Anil B Murthy"
 description              : &description "Anil's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -30,7 +30,7 @@ author:
   location         : "Tempe, AZ"
   employer         : #"SCAI @ Arizona State University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "[first_name_initial]bmurthy[at]asu.edu" 
 
   # Academic websites
   academia         : # URL
