@@ -27,5 +27,17 @@ layout: compress
 
     {% include scripts.html %}
 
+    <div class="visitor-counter">
+      <p>Visitors: <span id="visit-count">...</span></p>
+    </div>
+
+<script>
+  fetch('https://api.countapi.xyz/hit/yourwebsite.com/homepage')
+    .then(response => response.json())
+    .then(data => {
+      document.getElementById('visit-count').textContent = data.value;
+    });
+</script>
+
   </body>
 </html>
