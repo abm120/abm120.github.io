@@ -40,6 +40,11 @@ In my free time, I enjoy trekking and biking. I have trekked in the Himalayas tw
     Here's a fun function used in Elliptical Curve Cryptography!
 </div>
 
+<br>
+<br>
+<br>
+<br>
+
 
 
 This website is last updated: Sep 2025
