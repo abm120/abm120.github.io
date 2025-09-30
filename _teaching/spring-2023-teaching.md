@@ -8,5 +8,6 @@ category: "teaching"  # or "service"
 date: 2023-01-01
 location: "Tempe, USA"
 ---
-Instructors: Dr. Dianne Hansford
+Instructor: Dr. Dianne Hansford
+<br>
 Teaching Assistant for around 60 Students. Responsibilities involved holding office hours, project guidance, course assessment and grading. Topics covered Java, SQL, Web Design including HTML, CSS, D3.jS, and Game Development.
