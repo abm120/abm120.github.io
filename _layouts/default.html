@@ -1,7 +1,6 @@
 ---
 layout: compress
 ---
-
 {% include base_path %}
 
 <!doctype html>
@@ -32,7 +31,7 @@ layout: compress
     </div>
 
 <script>
-  fetch('https://api.countapi.xyz/hit/abm120.github.io/')
+  fetch('https://api.countapi.xyz/hit/abm120.github.io')
     .then(response => response.json())
     .then(data => {
       document.getElementById('visit-count').textContent = data.value;
