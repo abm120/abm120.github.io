@@ -35,10 +35,15 @@ Before PhD, in what now feels like a previous life, I worked in Sensor Fusion, A
 # Hobbies & Interests
 In my free time, I enjoy trekking and biking. I have trekked in the Himalayas twice. I also listen to a wide variety of music and soundtracks and dabble in amateur video scoring. I used to be a district-level Cricket player in my teens, and follow sporting events around the world, including Tennis and Formula 1.
 
-![Design ECC 1 bottom](https://github.com/user-attachments/assets/8c0d6646-48b8-4df9-96c5-13ee16aa950a)
-<div style="text-align: right;">
-    Here's a fun function used in Elliptical Curve Cryptography!
+<br>
+<br>
+<!--
+<div style="text-align: left;">
+    Digitally Signed with an Elliptic Curve!
 </div>
+
+<img width="1147" height="112" alt="ECC_signature_cropped" src="https://github.com/user-attachments/assets/996d8bf4-874d-4c9b-b0db-35ca7b309d2e" />
+-->
 
 <br>
 <br>
