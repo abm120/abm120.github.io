@@ -29,7 +29,7 @@ Hello! I am a PhD student researcher at the [School of Computing & Augmented Int
 
 ---
 
-Before PhD, in what now feels like a previous life, I worked in Sensor Fusion, Analytics, and Networks across Nokia Networks, Forus Health, and WIPRO Ltd. I also worked as a Software Engineer at Accenture and as a Consulting Resource Person at the Board of IT Education Standards, Bengaluru. I explored research in Information Theory and Network Coding at Texas A&M University, College Station, as a Graduate Merit Scholar in the Computer Engineering Systems Group. I obtained my Bachelor's degree with a major in Electronics & Telecommunication Engineering at PES University, Bengaluru. I consider myself fortunate to have had the exposure and opportunity to work in many different technical fields, and grateful to have met great people!
+Before PhD, in what now feels like a previous life, I worked in Sensor Fusion, Analytics, and Networks across Nokia Networks, Forus Health, and WIPRO Ltd. I also worked as a Software Engineer at Accenture and as a Consulting Resource Person at the Board of IT Education Standards, Bengaluru. I explored research in Information Theory and Network Coding at Texas A&M University, College Station, as a Graduate Merit Scholar in the Computer Engineering Systems Group. I obtained my Bachelor's degree with a major in Electronics & Telecommunication Engineering at PES University, Bengaluru. I consider myself fortunate to have had the exposure and opportunity to work in many different technical fields, and grateful to have met many people!
 
 
 # Hobbies & Interests
