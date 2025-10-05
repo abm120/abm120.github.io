@@ -26,7 +26,7 @@ author_profile: true
 {% assign service_posts = site.teaching | where: "category", "service" | reverse %}
 {% if service_posts.size > 0 %}
   {% for post in service_posts %}
-    <p>{{ post.title }}</p>
+    <p><strong>{{ post.title }}:</strong> {{ post.years }}</p>
   {% endfor %}
 {% else %}
   <p>No service activities listed yet.</p>
