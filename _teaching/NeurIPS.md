@@ -1,6 +1,6 @@
 ---
 title: "NeurIPS"
-collection: teaching
+collection: service
 type: "Conference Program Committee"
 permalink: /teaching/NeurIPS
 category: "service"  # or "service"
