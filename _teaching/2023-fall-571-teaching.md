@@ -10,4 +10,4 @@ location: "Tempe, USA"
 ---
 Instructor: Dr. Subbarao Kambhampati
 <br>
-Graduate Teaching Assistant for around 120 Students. Responsibilities involved Design of programming Assignments and grading schemes, holding Office Hours, Assessment, Review and Grading of exams, course coordination and logistics.
+**Graduate Teaching Assistant** for around 120 Students. Responsibilities involved Design of programming Assignments and grading schemes, holding Office Hours, Assessment, Review and Grading of exams, course coordination and logistics.
