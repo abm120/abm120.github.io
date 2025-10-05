@@ -1,5 +1,5 @@
 ---
-title: "NeurIPS"
+title: "NeurIPS (Neural Information Processing Systems)"
 collection: service
 type: "Conference Program Committee"
 permalink: /teaching/NeurIPS
