@@ -3,16 +3,16 @@
 # Format: date, content (can include markdown links)
 
 - date: "Sept '25"
-  content: "Our work on LLM Evaluation Metrics for Reasoning & Planning is accepted to NeurIPS 2025 Workshop on LLM-Evals! 🎉 More info soon!"
+  content: "Our work on LLM Evaluation Metrics for Reasoning & Planning is accepted to [NeurIPS 2025 Workshop on LLM-Evals](https://sites.google.com/view/llm-eval-workshop/)! 🎉 More info soon!"
 
 - date: "Aug '25"
-  content: "Our Perspective Paper on Trust in Generative AI Systems is accepted for a short talk 🎤 at the AAAI Fall Symposium on AI Trustworthiness & Risk Assessment for Challenged Contexts (ATRACC-25)! 🎉 More info soon!"
+  content: "Our Perspective Paper on LLM Confidence Metrics & Trust in Generative AI Systems is accepted for a short talk 🎤 at the [AAAI 2025 Fall Symposium on AI Trustworthiness & Risk Assessment for Challenged Contexts (ATRACC-25)](https://sites.google.com/view/aaai-atracc/)! 🎉 More info soon!"
 
 - date: "Aug '25"
-  content: "I am honored and delighted to be selected for the Doctoral Consortium at ICAPS 2025 Conference at Melbourne! 🎉"
+  content: "I am honored and delighted to be selected for the Doctoral Consortium at [ICAPS 2025 Conference at Melbourne](https://icaps25.icaps-conference.org/home/)! 🎉"
 
 - date: "Aug '25"
-  content: "I am excited to participate & attend the Agentic AI Summit at UC Berkeley!"
+  content: "I am excited to participate in & attend the Agentic AI Summit at UC Berkeley! Also, Looking forward to Industry visits in the Bay Area!"
 
 - date: "Summer '25"
   content: "Received my Advanced LLM Agents Certificate from Berkeley RDI!"
@@ -25,6 +25,9 @@
 
 - date: "Oct '24"
   content: "Happy to participate in Southwest Robotics 2024 Symposium at ASU!"
+
+- date: "Oct '24"
+  content: "Happy to serve as a panelist in the ASU International Student event on 'Being a Ph.D. student in an Engineering Field'!"
 
 - date: "Sept '24"
   content: "New Preprint released! '[Incorporating Human Flexibility through Reward Preferences in Human-AI Teaming](https://arxiv.org/abs/2312.14292v2)' up on Arxiv! Congrats to my collaborators! 🎉"
