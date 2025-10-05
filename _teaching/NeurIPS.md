@@ -1,10 +1,10 @@
 ---
-title: "**NeurIPS**: 2024/2025"
+title: "NeurIPS"
 collection: service
 type: "Conference Program Committee"
 permalink: /teaching/NeurIPS
 category: "service"  # or "service"
 venue: "NeurIPS"
-date: 2024-01-01
+years: 2024, 2025
 location: "Tempe, USA"
 ---
