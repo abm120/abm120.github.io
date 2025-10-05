@@ -9,6 +9,6 @@ date: 2024-01-01
 location: "Tempe, USA"
 ---
 
-Instructor: Dr. James Collofello, Dr. Robert Lynn Carter, and Dr. Ayca Tuzmen
+Instructors: Dr. James Collofello, Dr. Robert Lynn Carter, and Dr. Ayca Tuzmen
 <br>
-Graduate Teaching Assistant for around 500 Students. Responsibilities involved Course instruction, holding Office Hours, Design of assignments and grading schemes, Review of exams and course coordination with grading staff.
+**Graduate Teaching Associate** for around 500 Students. Responsibilities involved Course instruction, holding Office Hours, Design of assignments and grading schemes, Review of exams and course coordination with grading staff.
