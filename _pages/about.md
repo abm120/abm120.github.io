@@ -39,7 +39,7 @@ In my free time, I enjoy trekking and biking amongst other things. I have trekke
 <br>
 
 <div style="text-align: left;">
-    Digitally Signing off with an Elliptic Curve!
+    Transmission Complete! Digitally Signing off with an Elliptic Curve!
 </div>
 
 <img width="1147" height="112" alt="ECC_signature_cropped" src="https://github.com/user-attachments/assets/996d8bf4-874d-4c9b-b0db-35ca7b309d2e" />
