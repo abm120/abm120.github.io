@@ -11,7 +11,7 @@ Hello! I am a PhD student researcher at the [School of Computing & Augmented Int
 
 🔬 My research is grounded in AI Reasoning, Planning, and Sequential Decision-Making frameworks. I investigate the performance of generative AI models at various reasoning tasks for sequential decision-making, explore how benchmarks assess relevant constructs, and design agentic frameworks that are reliable and trustworthy.
 
-🤖 My research interests also span AI Alignment & Human-AI interaction, exploring how humans can augment AI with guidance via {domain & commonsense} knowledge, preferences, intuition, etc. And how AI can assist humans by offering data, compute, {narrow & broad} intelligence capabilities. I also have a broader interest in Agentic AI Applications, governance and policy. 
+🤖 My research interests also span AI Alignment & Human-AI interaction, exploring how humans can augment & align AI with guidance via {domain & commonsense} knowledge, preferences, intuition, etc. And how AI can assist humans by offering data, compute, {narrow & broad} intelligence capabilities. I also have a broader interest in Agentic AI Applications, governance and policy. 
 
 ---
 
@@ -33,7 +33,7 @@ Before PhD, in what now feels like a previous life, I worked in Sensor Fusion, A
 
 
 # Hobbies & Interests
-In my free time, I enjoy trekking and biking. I have trekked in the Himalayas twice. I also listen to a wide variety of music and soundtracks and dabble in amateur video scoring. I used to be a district-level Cricket player in my teens, and follow sporting events around the world, including Tennis and Formula 1.
+In my free time, I enjoy trekking and biking amongst other things. I have trekked in the Himalayas twice. I also listen to a wide variety of music and soundtracks and dabble in amateur video scoring. I used to be a district-level Cricket player in my teens, and follow sporting events around the world, including Tennis and Formula 1.
 
 <br>
 <br>
