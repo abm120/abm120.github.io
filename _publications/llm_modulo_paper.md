@@ -5,7 +5,7 @@ category: papers
 permalink: /publication/llm_modulo
 excerpt: 'This work proposes a novel neuro-symbolic approach for reliable planning with LLMs by having external model-based verifiers and critics in a bi-directional interaction regime.'
 date: 2024-02-05
-venue: 'International Conference on Machine Learning 2024 (Spotlight)'
+venue: 'International Conference on Machine Learning as Spotlight'
 paperurl: 'https://openreview.net/forum?id=Th8JPEmH4z'
 citation: 'Kambhampati, S., Valmeekam, K., Guan, L., Verma, M., Stechly, K., Bhambri, S., ... & Murthy, A. B. (2024, June). Position: LLMs can’t plan, but can help planning in LLM-modulo frameworks. In Forty-first International Conference on Machine Learning.'
 ---
