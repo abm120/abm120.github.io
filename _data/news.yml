@@ -3,7 +3,7 @@
 # Format: date, content (can include markdown links)
 
 - date: "Sept '25"
-  content: "Our work on Evaluation Metrics for LLM Reasoning & Planning is accepted to [NeurIPS 2025 Workshop on LLM-Evals](https://sites.google.com/view/llm-eval-workshop/)! 🎉 More info soon!"
+  content: "Our work on Novel Evaluation Metrics for LLM Reasoning & Planning is accepted to [NeurIPS 2025 Workshop on LLM-Evals](https://sites.google.com/view/llm-eval-workshop/)! 🎉 More info soon!"
 
 - date: "Aug '25"
   content: "Our Perspective Paper on LLM Confidence Metrics & Trust in Generative AI Systems is accepted for a short talk 🎤 at the [AAAI 2025 Fall Symposium on AI Trustworthiness & Risk Assessment for Challenged Contexts (ATRACC-25)](https://sites.google.com/view/aaai-atracc/)! 🎉 More info soon!"
@@ -12,13 +12,13 @@
   content: "I am honored and delighted to be selected for the Doctoral Consortium at [ICAPS 2025 Conference at Melbourne](https://icaps25.icaps-conference.org/home/)! 🎉"
 
 - date: "Aug '25"
-  content: "I am excited to participate in & attend the Agentic AI Summit at UC Berkeley! Also, Looking forward to Industry visits in the Bay Area!"
+  content: "Excited to attend the [Agentic AI Summit at UC Berkeley](https://rdi.berkeley.edu/events/agentic-ai-summit)! Also, Excited for my Industry visits in the Bay Area! (Thanks to my hosts at Nvidia & LinkedIn!)"
 
 - date: "Summer '25"
-  content: "Received my Advanced LLM Agents Certificate from Berkeley RDI!"
+  content: "Completed the Advanced LLM Agents Certificate from Berkeley RDI! Shoutout to the guest speakers, especially Yu Su & Ruslan Salakhutdinov for amazing lectures!"
 
 - date: "Feb '25"
-  content: "Received the AI Alignment Certificate from Bluedot Impact!"
+  content: "Completed the AI Alignment Certificate from Bluedot Impact! Happy to have met some good people!"
 
 - date: "Jan '25"
   content: "Completed the LLM Agents Certification at Berkeley RDI!"
@@ -27,7 +27,7 @@
   content: "Happy to participate in Southwest Robotics 2024 Symposium at ASU!"
 
 - date: "Oct '24"
-  content: "Happy to serve as a panelist in the ASU International Student event on 'Being a Ph.D. student in an Engineering Field'!"
+  content: "Happy to serve as a panelist in the [ASU International Students & Scholars Center](https://issc.asu.edu/) Event on 'Being a Ph.D. student in an Engineering Field'!"
 
 - date: "Sept '24"
   content: "New Preprint released! '[Incorporating Human Flexibility through Reward Preferences in Human-AI Teaming](https://arxiv.org/abs/2312.14292v2)' up on Arxiv! Congrats to my collaborators! 🎉"
@@ -37,6 +37,9 @@
 
 - date: "May '24"
   content: "Our [LLM-Modulo Position Paper](https://arxiv.org/abs/2402.01817) got into ICML 2024 Main Track as a **Spotlight**! Congrats to my collaborators! 🎉"
+
+- date: "Apr '22"
+  content: "Honored to be Nominated to the [IEEE Eta Kappa Nu](https://hkn.ieee.org/), the Honor Society of IEEE, by the esteemed faculty at [SCAI](https://scai.engineering.asu.edu/)."
 
 
 
