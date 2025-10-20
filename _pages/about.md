@@ -9,9 +9,9 @@ redirect_from:
 
 Hello! I am a PhD student researcher at the [School of Computing & Augmented Intelligence, Arizona State University](https://scai.engineering.asu.edu/), where I am advised by [Lindsay Sanneman](https://www.lindsaysanneman.com) and associated with the HEART AI Lab.
 
-🔬 In my research, I investigate the performance of generative AI models at various reasoning tasks for sequential decision-making, explore how benchmarks assess relevant constructs, and design agentic frameworks that are reliable and trustworthy. My work is grounded in AI Reasoning, Planning, and Sequential Decision-Making frameworks. Take a look at my recent works [here](https://abm120.github.io/publications/).
+🔬 In my research, **I investigate the performance of generative AI models at various reasoning tasks for sequential decision-making, explore how benchmarks assess relevant constructs, and design agentic frameworks that are reliable and trustworthy. My work is grounded in AI Reasoning, Planning, and Sequential Decision-Making frameworks.** Take a look at my recent works [here](https://abm120.github.io/publications/).
 
-🤖 My research interests also span AI Alignment & Human-AI interaction, exploring how humans can augment & align AI with guidance via {domain & commonsense} knowledge, preferences, intuition, etc. And how AI can assist humans by offering data, compute, {narrow & broad} intelligence capabilities. I also have a broader interest in Agentic AI Systems & Applications.
+🤖 My research interests also span **AI Alignment & Human-AI interaction, exploring how humans can augment & align AI with guidance via {domain & commonsense} knowledge, preferences, intuition, etc.** And how AI can assist humans by offering data, compute, {narrow & broad} intelligence capabilities. I also have a broader interest in Agentic AI Systems & Applications.
 
 ---
 
@@ -29,7 +29,7 @@ Hello! I am a PhD student researcher at the [School of Computing & Augmented Int
 
 ---
 
-Before PhD, in what now feels like a previous life, I worked in Sensor Fusion, Analytics, and Networks across Nokia Networks, Forus Health, and WIPRO Ltd. I also worked as a Software Engineer at Accenture and as a Consulting Resource Person at the Board of IT Education Standards, Bengaluru. I explored research in Information Theory and Network Coding at [Texas A&M University, College Station](https://www.tamu.edu/), as a Graduate Merit Scholar in the [Computer Engineering Systems Group](https://cesg.tamu.edu/). I obtained my Bachelor's degree with a major in Electronics & Telecommunication Engineering at [PES Institute of Technology](https://pes.edu/), Bengaluru, where my capstone thesis was advised by Dr. Ramamoorthy Srinath. I consider myself fortunate to have had the exposure and opportunity to work in many different technical fields, and grateful to have met many people!
+Before PhD, in what now feels like a previous life, I worked in Sensor Fusion, Analytics, and Networks across Nokia Networks, Forus Health, and WIPRO Ltd. I also worked as a Software Engineer at Accenture and as a Consulting Resource Person at the Board of IT Education Standards, Bengaluru. I explored research in Information Theory and Network Coding at [Texas A&M University, College Station](https://www.tamu.edu/), as a Graduate Merit Scholar in the [Computer Engineering Systems Group](https://cesg.tamu.edu/). I obtained my Bachelor's degree with a major in Electronics & Telecommunication Engineering at [PES Institute of Technology](https://pes.edu/), Bengaluru, where my capstone thesis, _'U-Sonic NFC: An Ultrasonic Near-Field Communication Application for Data Transfer'_, was advised by Dr. Ramamoorthy Srinath. I consider myself fortunate to have had the exposure and opportunity to work in many different technical fields, and grateful to have met many people!
 
 
 # Hobbies & Interests
