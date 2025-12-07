@@ -2,7 +2,7 @@
 title: "Metrics for Holistic Evaluation of LLM Reasoning about Action, Change, and Planning"
 collection: publications
 category: papers
-permalink: #/publication/2009-10-01-paper-title-number-1
+permalink: #/publication/IoU_metrics_paper
 excerpt: 'New informative Metrics for Evaluation of LLM Responses in Planning and Reasoning tasks. (Paper PDF link will be posted soon)'
 date: 2025-12-06
 venue: 'NeurIPS 2025 Workshop on Evaluating the Evolving LLM Lifecycle: Benchmarks, Emergent Abilities, and Scaling'
