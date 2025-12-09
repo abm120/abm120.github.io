@@ -7,7 +7,7 @@ excerpt: 'New informative Metrics for Evaluation of LLM Responses in Planning an
 date: 2025-12-06
 venue: 'NeurIPS 2025 Workshop on Evaluating the Evolving LLM Lifecycle: Benchmarks, Emergent Abilities, and Scaling'
 slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
-paperurl: #'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'http://abm120.github.io/files/IoU Metrics - Updated paper - NeurIPS_2025_LLM_Eval_Benchmarks_Workshop.pdf'
 bibtexurl: #'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Murthy, A. B., Mink, J., & Sanneman, L. (2025). Metrics for holistic evaluation of LLM reasoning about action, change, and planning. In NeurIPS 2025 Workshop on Evaluating the Evolving LLM Lifecycle: Benchmarks, Emergent Abilities, and Scaling.'
 ---
