@@ -2,6 +2,21 @@
 # Add new items at the top of the list for reverse chronological order
 # Format: date, content (can include markdown links)
 
+- date: "Jan '26"
+  content: "Delighted to have 2 new papers accepted to [ACM CHIIR 2026 Workshop on Human-Centered Proactive and Personalized Agents for Interactive Information Access](https://proactive-chiir.github.io/index.html) happening at Seattle in March 2026! 🎉 More info soon!"
+
+- date: "Jan '26"
+  content: "Gave a contributed talk 🎤 at the [Plan-FM Bridge](https://plan-fm.github.io/2026/) at [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)! 🎉"
+
+- date: "Dec '25"
+  content: "Presented my paper [Metrics for Holistic Evaluation of LLM Reasoning about Action, Change & Planning](https://anilbmurthy.com/publications/IoU_metrics_paper/) at NeurIPS 2025 Workshop on LLM Evals, in San Diego, California! 🎉"
+
+- date: "Nov '25"
+  content: "Participated in the [ICAPS Doctoral Consortium](https://icaps25.icaps-conference.org/dc/), presenting my dissertation summary, & attended the [ICAPS 2025 Conference](https://icaps25.icaps-conference.org/home/) in Melbourne, Australia! 🎉"
+
+- date: "Nov '25"
+  content: "Presented my paper '[LLMs Need to Go Beyond Computational Confidence Metrics to Establish Trust](https://ojs.aaai.org/index.php/AAAI-SS/article/view/36878)' as a 10-minute talk 🎤, at the AAAI Symposium on AI Trustworthiness in Arlington, Virginia! 🎉"
+
 - date: "Sept '25"
   content: "Our work on Novel Evaluation Metrics for LLM Reasoning & Planning is accepted to [NeurIPS 2025 Workshop on LLM-Evals](https://sites.google.com/view/llm-eval-workshop/)! 🎉 More info soon!"
 
