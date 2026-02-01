@@ -55,4 +55,4 @@ In my free time, I enjoy trekking and biking amongst other things. I have trekke
 
 
 
-This website is last updated: Sep 2025
+This website is last updated: Jan 2026
