@@ -2,8 +2,14 @@
 # Add new items at the top of the list for reverse chronological order
 # Format: date, content (can include markdown links)
 
-- date: "Jan '26"
-  content: "Delighted to have 2 new papers accepted to [ACM CHIIR 2026 Workshop on Human-Centered Proactive and Personalized Agents for Interactive Information Access](https://proactive-chiir.github.io/index.html) happening at Seattle in March 2026! 🎉 More info soon!"
+date: "Mar '26"
+  content: "Presented a talk 🎤 & poster about my work on 'Building Proactive Agentic Dialogue Systems' at the [CHIIR Workshop on Proactive and Personalized Agents](https://proactive-chiir.github.io/pages/accepted-paper.html) at UW in Seattle!"
+
+date: "Mar '26"
+  content: "Presented a talk 🎤 & poster on the 'Utility of Gen AI for Transparency in Personalized Systems' at the [CHIIR Workshop on Proactive and Personalized Agents](https://proactive-chiir.github.io/pages/accepted-paper.html) at UW in Seattle!"
+
+date: "Jan '26"
+  content: "Delighted to have 2 new papers accepted to [ACM CHIIR 2026 Workshop on Proactive and Personalized Agents](https://proactive-chiir.github.io/index.html) happening at Seattle in March 2026! 🎉 More info soon!"
 
 - date: "Jan '26"
   content: "Gave a contributed talk 🎤 at the [Plan-FM Bridge](https://plan-fm.github.io/2026/) at [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)! 🎉"
