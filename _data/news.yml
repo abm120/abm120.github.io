@@ -2,8 +2,17 @@
 # Add new items at the top of the list for reverse chronological order
 # Format: date, content (can include markdown links)
 
+- date: "May '26"
+  content: "Started a Research Internship with LinkedIn's AI Team at LinkedIn HQ in Mountain View, California!🌞🎉"
+
+- date: "Apr '26"
+  content: "Selected to attend the [2026 Columbia ML Summer School](https://cfe.columbia.edu/content/mlss2)! 🎉"
+
 - date: "Mar '26"
-  content: "Presented 2 talks 🎤 & posters about my on-going works on 'Agentic Dialogue Systems' and 'Gen AI for Transparency in Personalization' at the [CHIIR Workshop on Proactive and Personalized Agents](https://proactive-chiir.github.io/pages/accepted-paper.html) at UW in Seattle!🌸"
+  content: "Presented 2 talks 🎤 & posters on 'Agentic Dialogue Systems' and 'Gen AI for Transparency in Personalization' at the [CHIIR Workshop on Proactive and Personalized Agents](https://proactive-chiir.github.io/pages/accepted-paper.html) at UW in Seattle!🌸"
+
+- date: "Feb '26"
+  content: "Completed the Agentic AI Course at Berkeley RDI! Looking forward to meeting some of the speakers in August!"
 
 - date: "Jan '26"
   content: "Delighted to have 2 new papers accepted to [ACM CHIIR 2026 Workshop on Proactive and Personalized Agents](https://proactive-chiir.github.io/index.html) happening at Seattle in March 2026! 🎉 More info soon!"
