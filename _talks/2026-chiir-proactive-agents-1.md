@@ -4,6 +4,6 @@ collection: talks
 type: "Talk"
 permalink: /talks/2026-chiir-proactive-agents-1
 venue: "ACM CHIIR Proactive & Personalized Agents Workshop"
-date: 2026-01-01
+date: 2026-03-01
 location: "Seattle, WA"
 ---
