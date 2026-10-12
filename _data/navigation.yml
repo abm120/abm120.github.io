@@ -12,8 +12,8 @@ main:
     url: /publications/
     #url: "https://scholar.google.com/citations?user=lPCPmgYAAAAJ"
 
-  #- title: "Talks"
-  #  url: /talks/    
+  - title: "Talks"
+    url: /talks/
 
   - title: "Teaching & Service"
     url: /teaching/    
