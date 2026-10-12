@@ -27,6 +27,42 @@ Hello! I am a PhD researcher at the [School of Computing & Augmented Intelligenc
 </div>
 </div>
 
+<div class="profile-lists">
+
+<h2>Recent Publications <small style="font-size: 0.6em; font-weight: normal;">(<a href="{{ site.author.googlescholar }}">Google Scholar</a>)</small></h2>
+<ul>
+{% assign pubs = site.publications | sort: "date" | reverse %}
+{% for p in pubs %}
+<li>{{ p.title }}. <em>{{ p.venue }}</em>, {{ p.date | date: "%Y" }}.</li>
+{% endfor %}
+</ul>
+
+<h2>Talks</h2>
+<ul>
+{% assign talks_sorted = site.talks | sort: "date" | reverse %}
+{% for t in talks_sorted %}
+<li>{{ t.title }}. <em>{{ t.venue }}</em>, {{ t.location }}, {{ t.date | date: "%Y" }}.</li>
+{% endfor %}
+</ul>
+
+<h2>Teaching</h2>
+<ul>
+{% assign teaching_sorted = site.teaching | where: "category", "teaching" | sort: "date" | reverse %}
+{% for t in teaching_sorted %}
+<li>TA, {{ t.title }}. <em>{{ t.venue }}</em>, {{ t.date | date: "%Y" }}.</li>
+{% endfor %}
+</ul>
+
+<h2>Service</h2>
+<ul>
+{% assign service_sorted = site.teaching | where: "category", "service" | sort: "title" | reverse %}
+{% for s in service_sorted %}
+<li>{{ s.type }}, {{ s.title }}: {{ s.years }}.</li>
+{% endfor %}
+</ul>
+
+</div>
+
 ---
 
 Before PhD, in what now feels like a previous life, I explored research in Information Theory and Network Coding at [Texas A&M University, College Station](https://www.tamu.edu/), as a Graduate Merit Scholar in the [Computer Engineering Systems Group](https://cesg.tamu.edu/). Prior to that, I worked in Sensor Fusion, Analytics, and Networks across Nokia Networks, Forus Health, and WIPRO Ltd. I also worked as a Software Engineer at Accenture and as a Consultant at the Board of IT Education Standards, Bengaluru. 

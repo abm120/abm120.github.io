@@ -1,5 +1,5 @@
 ---
-title: "CSE 565 - Software Verification, Validation & Testing"
+title: "CSE 565 Software Verification, Validation & Testing"
 collection: teaching
 type: "Graduate-level Course"
 permalink: /teaching/2024-spring-fall-565-teaching
