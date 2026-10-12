@@ -7,6 +7,8 @@ excerpt: 'Perspective Paper on highlighting the Insufficiency of Computational A
 date: 2025-11-07
 venue: 'AAAI 2025 Symposium on AI Trustworthiness and Risk Assessment for Challenged Contexts (ATRACC-25)'
 slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
+proceedings: 'Proceedings of the AAAI Symposium Series, 7(1), 131–136'
+doi: 'https://doi.org/10.1609/aaaiss.v7i1.36878'
 paperurl: 'https://ojs.aaai.org/index.php/AAAI-SS/article/view/36878'
 citation: 'B Murthy, A., & Sanneman, L. (2025). LLMs Need to Go Beyond Computational Confidence Metrics to Establish Trust. Proceedings of the AAAI Symposium Series, 7(1), 131-136. https://doi.org/10.1609/aaaiss.v7i1.36878'
 ---

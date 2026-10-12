@@ -33,7 +33,7 @@ Hello! I am a PhD researcher at the [School of Computing & Augmented Intelligenc
 <ul>
 {% assign pubs = site.publications | sort: "date" | reverse %}
 {% for p in pubs %}
-<li>{{ p.title }}. <em>{{ p.venue }}</em>, {{ p.date | date: "%Y" }}.</li>
+<li>{{ p.title }}. <em>{{ p.venue }}</em>, {{ p.date | date: "%Y" }}.{% if p.proceedings %} {{ p.proceedings }}. <a href="{{ p.doi }}">{{ p.doi }}</a>{% endif %}</li>
 {% endfor %}
 </ul>
 
