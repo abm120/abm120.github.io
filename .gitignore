@@ -18,3 +18,6 @@ package-lock.json
 
 # Ignore folders related to IDEs
 .vscode/
+
+# Local migration planning notes (not synced)
+AL_FOLIO_MIGRATION_PLAN.md
