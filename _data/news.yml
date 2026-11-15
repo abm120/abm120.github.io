@@ -2,6 +2,24 @@
 # Add new items at the top of the list for reverse chronological order
 # Format: date, content (can include markdown links)
 
+- date: "Oct '26"
+  content: "Won a 'Top Reviewer' award from NeurIPS Main Conference, with full registration award! 🏆 Award is given to around ~8% of reviewers globally!"
+
+- date: "Sep '26"
+  content: "Reviewed for NeurIPS 2026 TAE Workshop!"
+
+- date: "Aug '26"
+  content: "Successfully wrapped up my research project with LinkedIn's Core-AI team! 🎉"
+
+- date: "Aug '26"
+  content: "Won the LinkedIn Innovation Challenge 2026. Category: 'Connections that matter most'; Congrats to my team! 🎉"
+
+- date: "Jul '26"
+  content: "Part of the NeurIPS 2026 Conference Program Committee!"
+
+- date: "Jun '26"
+  content: "Gave a talk 🎤 at the LinkedIn Ph.D. Symposium at LinkedIn HQ, titled 'Deconstructing Gen AI Decision-Making: Towards Collaborative Human-AI Planning Frameworks'"
+
 - date: "May '26"
   content: "Started a Research Internship with LinkedIn's AI Team at LinkedIn HQ in Mountain View, California!🌞🎉"
 
