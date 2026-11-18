@@ -2,7 +2,9 @@
 # Add new items at the top of the list for reverse chronological order
 # Format: date, content (can include markdown links)
 
-<<<<<<< HEAD
+- date: "Nov '26"
+  content: "Gave an invited talk 🎤 at ByteXL (India) on 'Agentic AI: Core Foundations, Frontiers, and Open Challenges in Reasoning and Planning'. [Link](https://lnkd.in/p/gCiDz4y6)"
+
 - date: "Oct '26"
   content: "Won a 'Top Reviewer' award from NeurIPS Main Conference, with full registration award! 🏆 Award is given to around ~8% of reviewers globally!"
 
@@ -20,10 +22,6 @@
 
 - date: "Jun '26"
   content: "Gave a talk 🎤 at the LinkedIn Ph.D. Symposium at LinkedIn HQ, titled 'Deconstructing Gen AI Decision-Making: Towards Collaborative Human-AI Planning Frameworks'"
-=======
-- date: "Nov '26"
-  content: "Gave an invited talk 🎤 at ByteXL (India) on 'Agentic AI: Core Foundations, Frontiers, and Open Challenges in Reasoning and Planning'. [Link](https://lnkd.in/p/gCiDz4y6)"
->>>>>>> cba5d93 (Add ByteXL agentic AI talk and news, ignore copilot instructions)
 
 - date: "May '26"
   content: "Started a Research Internship with LinkedIn's AI Team at LinkedIn HQ in Mountain View, California!🌞🎉"
